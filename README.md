@@ -7,13 +7,13 @@ vue3+ts+ant design vue 框架模仿某居客租房模版，适用于基础的房
 #### 软件架构
 软件架构说明
 
-1、是一个 ant-design-vue 框架作为主题的UI模版
+1、是一个  **ant-design-vue**  框架作为主题的UI模版
 
-2、vue3+ ts + vite 架构
+2、 **vue3+ ts + vite**  架构
 
-3、数据持久化使用  pinia + pinia-plugin-persistedstate
+3、数据持久化使用   **pinia + pinia-plugin-persistedstate** 
 
-4、样式 使用 windicss 非常强大的 css库，快速的css 布局，抽离业务层 参考地址： [https://windicss.org/](http://)
+4、样式 使用  **windicss ** 非常强大的 css库，快速的css 布局，抽离业务层 参考地址： [https://windicss.org/](http://)
 
 ![输入图片说明](src/assets/resoures/1720839372059.jpg)
 
@@ -29,13 +29,12 @@ vue3+ts+ant design vue 框架模仿某居客租房模版，适用于基础的房
 
 ![输入图片说明](src/assets/resoures/8bc6aa24f0f48e905a5dd8333f5740d.png)
 
-![输入图片说明](src/assets/3f75a65d56350664ed53fdeac2f721e.png)
+![输入图片说明](src/assets/resoures/3f75a65d56350664ed53fdeac2f721e.png)
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  项目可以单独抽离出来作为基础框架使用，网路请求+数据持久化+ css样式+ 基础工具类的使用封装，项目基础结构可点击我的主页，有单独的vue3 + ts + vite + pinia +  windicss 的项目
+2.  如发现项目中有存在侵犯权益，请及时与我联系  **wechat：songyucoder** 
 
 #### 参与贡献
 
