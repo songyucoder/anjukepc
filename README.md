@@ -6,6 +6,12 @@ vue3+ts+ant design vue 框架模仿某居客租房模版，适用于基础的房
 
 #### 软件架构
 软件架构说明
+1、是一个 ant-design-vue 框架作为主题的UI模版
+2、vue3+ ts + vite 架构
+3、数据持久化使用  pinia + pinia-plugin-persistedstate
+4、样式 使用 windicss 非常强大的 css库，快速的css 布局，抽离业务层 参考地址： [https://windicss.org/](http://)
+![输入图片说明](src/assets/resoures/1720839372059.jpg)
+5、对axios请求框架进行了封装，满足最基础的使用，这样的请求框架参考了 vue-element-plus-admin [输入链接说明](http://element-plus-admin-doc.cn/)，也是站在巨人的肩膀上
 
 
 #### 安装教程
