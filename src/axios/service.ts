@@ -3,8 +3,6 @@ import { defaultRequestInterceptors, defaultResponseInterceptors } from './confi
 
 import { AxiosInstance, InternalAxiosRequestConfig, RequestConfig, AxiosResponse } from './types'
 import { message } from 'ant-design-vue'
-
-
 export const PATH_URL = import.meta.env.VITE_API_BASE_PATH
 console.log(import.meta.env)
 const abortControllerMap: Map<string, AbortController> = new Map()
