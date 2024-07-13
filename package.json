@@ -1,0 +1,37 @@
+{
+  "name": "shanghairent",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "ant-design-vue": "~4.2.3",
+    "axios": "^1.7.2",
+    "dayjs": "^1.11.11",
+    "lodash-es": "^4.17.21",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "qs": "^6.12.2",
+    "vue": "^3.4.31",
+    "vue-router": "^4.4.0",
+    "vue-types": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/qs": "^6.9.15",
+    "@types/lodash-es": "^4.17.12",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "less": "^4.2.0",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.3",
+    "vite-plugin-alias": "^0.1.1",
+    "vite-plugin-windicss": "^1.9.3",
+    "vue-tsc": "^2.0.26",
+    "windicss": "^3.5.6"
+  }
+}
