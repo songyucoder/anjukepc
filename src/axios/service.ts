@@ -11,8 +11,7 @@ const abortControllerMap: Map<string, AbortController> = new Map()
 
 const axiosInstance: AxiosInstance = axios.create({
   timeout: 60000,
-  baseURL: 'https://api.shangpu9.com'
-  // baseURL: PATH_URL
+  baseURL: 'https://xxx.com'
 })
 
 axiosInstance.interceptors.request.use((res: InternalAxiosRequestConfig) => {
