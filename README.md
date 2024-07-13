@@ -6,6 +6,7 @@ vue3+ts+ant design vue 框架模仿某居客租房模版，适用于基础的房
 
 #### 软件架构
 软件架构说明
+
 1、是一个 ant-design-vue 框架作为主题的UI模版
 
 2、vue3+ ts + vite 架构
@@ -18,12 +19,17 @@ vue3+ts+ant design vue 框架模仿某居客租房模版，适用于基础的房
 
 5、对axios请求框架进行了封装，满足最基础的使用，这样的请求框架参考了 vue-element-plus-admin [参考文档](http://element-plus-admin-doc.cn/)，也是站在巨人的肩膀上
 
+6、同时也对用户的数据持久化，状态的存储做了 store 
 
 #### 安装教程
 
 1.  pnpm install  下载包
 2.  pnpm run dev
-3.  xxxx
+3.  效果如下
+
+![输入图片说明](src/assets/resoures/8bc6aa24f0f48e905a5dd8333f5740d.png)
+
+![输入图片说明](src/assets/3f75a65d56350664ed53fdeac2f721e.png)
 
 #### 使用说明
 
